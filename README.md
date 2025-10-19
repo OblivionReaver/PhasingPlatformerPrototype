@@ -1,3 +1,5 @@
 # PhasingPlatformerPrototype
 Phasing Platformer Game (Currently in prototyping phase)
 Phase Shift is a minimalist 2D puzzle platformer prototype built in Unity (C#) that explores a core mechanic of toggling between two parallel realities to navigate obstacles. Each world contains different platforms and hazards, challenging players to think spatially and time their shifts precisely. Designed around simplicity and teaching through play, the game's short levels introduce and layer mechanics organically - starting with basic movement, then combining phase transitions, and culminating in complext timing and momentum challenges. Clean visuals, clear feedback, and responsive controls emphasize player clarity and feel, reflecting a focus on purposeful, iterative design and polished execution within a compact prototype.
+
+The following Repository has a handful of short clips showcasing the basic gameplay loop of this project, as well as the full design brief for further details.
